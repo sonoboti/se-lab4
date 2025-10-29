@@ -1,0 +1,2 @@
+GT4500,100,0,100,0
+TORPEDO,ALL  # should have fired from the primary store
